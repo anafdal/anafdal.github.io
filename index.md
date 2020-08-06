@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+//### Category Name 1 
 
 [AV Simulation](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>

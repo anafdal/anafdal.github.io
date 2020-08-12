@@ -14,12 +14,13 @@
 ---
 [Interactive Bifurcation Graph](https://mcs.bw.edu/~adalipi15/Chaos_Theory_And_Technology_Paper.html)
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/>-->
-<iframe src="//mcs.bw.edu/~adalipi15/135/bff.html" height="600" width="500" title="Biffurcation Graph"></iframe>
+<object type="text/html" data="https://mcs.bw.edu/~adalipi15/135/bff.html">
+</object>
 
 
 ---
 
-### Research
+### Research Papers
 
 - [AV](http://example.com/)
 - [Chaos Theory and Technology](https://mcs.bw.edu/~adalipi15/Chaos_Theory_And_Technology_Paper.html)

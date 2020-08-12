@@ -14,8 +14,7 @@
 ---
 [Interactive Bifurcation Graph](http://example.com/)
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/>-->
-<iframe src="https://mcs.bw.edu/~adalipi15/135/bff.html" title="Biffurcation Graph">
-
+<iframe src="https://mcs.bw.edu/~adalipi15/135/bff.html" height="200" width="300" title="Biffurcation Graph"></iframe>
 ---
 
 ### Category Name 2

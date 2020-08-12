@@ -10,6 +10,10 @@
 ---
 [COVID-19 3D Data Visualization](https://github.com/anafdal/CGT515_DataVisualization)
 <img src="images/Pic_1.PNG">
+<img src="images/Pic_2.PNG">
+<img src="images/Pic_3.PNG">
+<img src="images/Pic_4.PNG">
+
 
 ---
 [Interactive Bifurcation Graph](https://mcs.bw.edu/~adalipi15/Chaos_Theory_And_Technology_Paper.html)

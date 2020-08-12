@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Interactive Bifurcation Graph](http://example.com/)
+[Interactive Bifurcation Graph](https://mcs.bw.edu/~adalipi15/Chaos_Theory_And_Technology_Paper.html)
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/>-->
 <iframe src="https://mcs.bw.edu/~adalipi15/135/bff.html" height="600" width="500" title="Biffurcation Graph"></iframe>
 

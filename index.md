@@ -19,13 +19,12 @@
 
 ---
 
-### Category Name 2
+### Research
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [AV](http://example.com/)
+- [Chaos Theory and Technology](https://mcs.bw.edu/~adalipi15/Chaos_Theory_And_Technology_Paper.html)
+- [Bio-Inspired Solar Electric Propulsion Investigation](/pdf/2018 Space Academy Final Report copy-converted.pdf)
+
 
 ---
 

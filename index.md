@@ -23,7 +23,7 @@
 
 - [AV](http://example.com/)
 - [Chaos Theory and Technology](https://mcs.bw.edu/~adalipi15/Chaos_Theory_And_Technology_Paper.html)
-- [Bio-Inspired Solar Electric Propulsion Investigation](/pdf/2018SpaceAcademyFinalReportcopy-converted.pdf)
+- [Bio-Inspired Solar Electric Propulsion Investigation](/pdf/2018%20Space%20Academy%20Final%20Report%20copy-converted.pdf)
 
 
 ---

@@ -13,8 +13,8 @@
 
 ---
 [Interactive Bifurcation Graph](https://mcs.bw.edu/~adalipi15/Chaos_Theory_And_Technology_Paper.html)
-<!--<img src="images/dummy_thumbnail.jpg?raw=true"/>-->
-<embed src="https://mcs.bw.edu/~adalipi15/135/bff.html" width=200 height=200 onerror="alert('URL invalid !!');" />
+<img src="https://mcs.bw.edu/~adalipi15/135/bff.html"/>
+
 
 
 ---

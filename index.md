@@ -13,7 +13,7 @@
 
 ---
 [Interactive Bifurcation Graph](https://mcs.bw.edu/~adalipi15/Chaos_Theory_And_Technology_Paper.html)
--[Link](https://mcs.bw.edu/~adalipi15/135/bff.html)
+- [Link](https://mcs.bw.edu/~adalipi15/135/bff.html)
 
 
 

@@ -9,7 +9,7 @@
 
 ---
 [COVID-19 3D Data Visualization](https://github.com/anafdal/CGT515_DataVisualization)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Pic_1.PNG">
 
 ---
 [Interactive Bifurcation Graph](https://mcs.bw.edu/~adalipi15/Chaos_Theory_And_Technology_Paper.html)

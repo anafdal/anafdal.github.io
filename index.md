@@ -14,7 +14,9 @@
 ---
 [Interactive Bifurcation Graph](https://mcs.bw.edu/~adalipi15/Chaos_Theory_And_Technology_Paper.html)
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/>-->
-<object type="text/html" data="https://mcs.bw.edu/~adalipi15/135/bff.html">
+<object data="https://mcs.bw.edu/~adalipi15/135/bff.html" width="600" height="400">
+    <embed src="https://mcs.bw.edu/~adalipi15/135/bff.html" width="600" height="400"> </embed>
+    Error: Embedded data could not be displayed.
 </object>
 
 

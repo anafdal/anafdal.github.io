@@ -5,7 +5,7 @@
 <!--### Category Name 1 -->
 
 [AV Simulation](https://github.com/anafdal/AV-Simulation)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [COVID-19 3D Data Visualization](https://github.com/anafdal/CGT515_DataVisualization)

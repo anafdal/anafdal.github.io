@@ -4,7 +4,7 @@
 
 <!--### Category Name 1 -->
 
-[AV Simulation](/sample_page)
+[AV Simulation](https://github.com/anafdal/AV-Simulation)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

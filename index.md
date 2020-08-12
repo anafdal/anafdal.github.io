@@ -8,12 +8,13 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[COVID-19 3D Data Visualization](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Interactive Bifurcation Graph](http://example.com/)
+<!--<img src="images/dummy_thumbnail.jpg?raw=true"/>-->
+<iframe src="https://mcs.bw.edu/~adalipi15/135/bff.html" title="Biffurcation Graph">
 
 ---
 

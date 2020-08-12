@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[COVID-19 3D Data Visualization](/pdf/sample_presentation.pdf)
+[COVID-19 3D Data Visualization](https://github.com/anafdal/CGT515_DataVisualization)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

@@ -9,10 +9,11 @@
 
 ---
 [COVID-19 3D Data Visualization](https://github.com/anafdal/CGT515_DataVisualization)
-<img src="images/Pic_1.PNG">
-<img src="images/Pic_2.PNG">
-<img src="images/Pic_3.PNG">
-<img src="images/Pic_4.PNG">
+<br />
+<img src="images/Pic_1.PNG" style="width:500px;height:600px;">
+<img src="images/Pic_2.PNG" style="width:500px;height:600px;">
+<img src="images/Pic_3.PNG" style="width:500px;height:600px;" >
+<img src="images/Pic_4.PNG" style="width:500px;height:600px;" >
 
 
 ---

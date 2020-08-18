@@ -5,15 +5,15 @@
 <!--### Category Name 1 -->
 
 [VR-PAVIB Simulation](https://github.com/anafdal/AV-Simulation)
-
+<img src="images/Pic_1.PNG" style="width:500px;height:300px;">
 
 ---
 [COVID-19 3D Data Visualization](https://github.com/anafdal/CGT515_DataVisualization)
 <br /><br />
 <img src="images/Pic_1.PNG" style="width:500px;height:300px;">
 <img src="images/Pic_2.PNG" style="width:500px;height:300px;">
-<img src="images/Pic_3.PNG" style="width:500px;height:300px;" >
-<img src="images/Pic_4.PNG" style="width:500px;height:300px;" >
+<img src="images/Pic_3.PNG" style="width:500px;height:300px;">
+<img src="images/Pic_4.PNG" style="width:500px;height:300px;">
 
 
 ---

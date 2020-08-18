@@ -33,7 +33,11 @@ Current GPA: 4.00/4.00 <br />
 ***Bachelor of Mathematics  Minor in Software Engineering Baldwin Wallace University, Berea, OH***<br /> 
 May 2019 <br /> 
 GPA: 3.86/4.00 <br /> 
-  
+
+***PSEOP  Cuyahoga Community College, Cleveland , OH***  <br /> 
+January 2015 
+ <br />  
+ 
 --- 
 ### LANGUAGES
  <br />

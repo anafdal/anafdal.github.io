@@ -22,24 +22,25 @@ Purdue Graduate student with a focus in Virtual Reality and Data Visualization a
 ---
 ### EXPERIENCE
 <br />  
-***Virtual Reality Pedestrian-Autonomous Vehicle Interactions Benchmark Suite Research Member Purdue University | West Lafayette, IN***<br />   
+
+***Virtual Reality Pedestrian-Autonomous Vehicle Interactions Benchmark Suite Research Member Purdue University | West Lafayette, IN***  
 March 2020 - Current<br />  
 * Created a virtually based simulation for pedestrian-AV interactions using Unity and the NAVMESH System. 
 * In charge of the Traffic and Road System logic.
 * Developed interactable UI interfaces for the car models. 
  
-***Teacher Assistant  Purdue University | West Lafayette, IN*** <br />  
+***Teacher Assistant  Purdue University | West Lafayette, IN***   
 August 2019 - Current <br /> 
 * Help students to advance their spatial abilities in order to successfully communicate their engineering ideas using visual techniques. 
 * Educate students on how to become proficient with CAD software like CATIA and PLM platforms like Aras. 
 
-***Marshalls Associate  T.J. Maxx & HomeGoods | Fairview Park, OH*** <br />   
+***Marshalls Associate  T.J. Maxx & HomeGoods | Fairview Park, OH***    
 April 2017 - July 2019 <br />  
 * Greeted and assisted customers. 
 * Managed different projects. 
 * Worked independently and on a team. 
 
-***Space Academy Research Intern  NASA Glenn Research Center | Cleveland, OH***  <br />  
+***Space Academy Research Intern  NASA Glenn Research Center | Cleveland, OH***    
 June 2018 - August 2018 <br />  
 * Worked on the Bio-Inspired Solar Electric Propulsion Investigation team. 
 * Acquired data of hydrophobic and hydrophilic plant structures using scholarly journals. 
@@ -47,7 +48,7 @@ June 2018 - August 2018 <br />
 * Modeled data for optimal hydrophobic surfaces using R studio. 
 * Focused on machine learning. 
 
-***Baldwin Wallace Space University Student  Johnson Space Center | Houston, TX***  <br /> 
+***Baldwin Wallace Space University Student  Johnson Space Center | Houston, TX***   
 March 2018 - March 2018 <br /> 
 * Spent a week at the Johnson Space Center in Houston. 
 * Participated in different group projects like rocket building and launching. 

@@ -4,7 +4,7 @@
 
 #### [VR-PAVIB Simulation](https://github.com/anafdal/AV-Simulation)
 <br />
-<img src="images/Capture.PNG" style="width:300px;height:300px;">
+<img src="images/Capture.PNG" style="width:500px;height:300px;">
 
 ***
 

@@ -8,9 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/ana-fiona-dalipi-516503132/">View My LinkedIn Profile</a> 
  
  <br><br>
-  <a href="/images/IMG_0277.JPG?raw=true" download>
-  <img src="/images/IMG_0277.JPG?raw=true" alt="W3Schools">
-</a>
+  <a href="/images/IMG_0277.JPG?raw=true" download></a>
   
   
 theme: jekyll-theme-minimal

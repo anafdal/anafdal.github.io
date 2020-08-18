@@ -54,20 +54,20 @@ March 2018 - March 2018 <br />
 * Participated in different group projects like rocket building and launching. 
 * Interacted with NASA employees to learn more about the center and their mission. 
   
-***Mathematics and Computer Science Tutor  Baldwin Wallace University | Berea, OH***<br />   
+***Mathematics and Computer Science Tutor  Baldwin Wallace University | Berea, OH***   
 December 2017 - May 2018 <br /> 
 * Offered tutoring services to students in different math and computer science subjects. 
 * Encouraged students to become active learners. 
 * Offered different learning methods that can be suitable to the student. 
 
-***High School to Higher Education Course Assistant  Baldwin Wallace University | Berea, OH*** <br />   
+***High School to Higher Education Course Assistant  Baldwin Wallace University | Berea, OH***   
 September 2016 - December 2016 <br />  
 * Advised and instructed students on tutoring in local high school as part of the Honors Program.  
 * Monitored the students' work and progress. 
 * Calculated the students' payments and assisted the teacher with budgeting. 
 * Distributed and clarified information regarding necessary application forms. 
 
-***High School to Higher Education Tutor  Baldwin Wallace University | Berea, OH*** <br /> 
+***High School to Higher Education Tutor  Baldwin Wallace University | Berea, OH***  
 January 2016 - April 2016 <br /> 
 * Tutored high school students in Math and English in Facing History New Tech, downtown Cleveland. 
 * Addressed issues concerning the students and collaborated with the teacher to improve their learning experience. 

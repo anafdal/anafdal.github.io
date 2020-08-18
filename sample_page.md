@@ -9,19 +9,23 @@ Purdue Graduate student with a focus in Virtual Reality and Data Visualization a
 
 ### SKILLS
 
-● Creative problem solver               <br />            ● Strong organizational skills <br />  
-● Microsoft Windows, Office and Excel proficient  ● Experience with Maya Animation <br />  
-● Experience with Unity                           ●  Knowledgeable in C#, Java,  and Python <br />  
-●  Experience with SAS, Julia, R and MATLAB       ●  Basic Video Editing and Photoshop skills <br />  
-● Experience with HTML and CSS 
+* Creative problem solver                      
+* Strong organizational skills 
+* Microsoft Windows, Office and Excel proficient 
+* Experience with Maya Animation 
+* Experience with Unity                          
+* Knowledgeable in C#, Java,  and Python   
+* Experience with SAS, Julia, R and MATLAB      
+* Basic Video Editing and Photoshop skills 
+* Experience with HTML and CSS 
 
 ---
 ### EXPERIENCE
 ***Virtual Reality Pedestrian-Autonomous Vehicle Interactions Benchmark Suite Research Member Purdue University | West Lafayette, IN***<br />   
 March 2020 - Current<br />  
-● Created a virtually based simulation for pedestrian-AV interactions using Unity and the NAVMESH System.<br /> 
-● In charge of the Traffic and Road System logic.<br /> 
-● Developed interactable UI interfaces for the car models.<br />  
+* Created a virtually based simulation for pedestrian-AV interactions using Unity and the NAVMESH System. 
+* In charge of the Traffic and Road System logic.
+* Developed interactable UI interfaces for the car models. 
  
 ***Teacher Assistant  Purdue University | West Lafayette, IN*** <br />  
 August 2019 - Current <br /> 

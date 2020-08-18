@@ -4,7 +4,7 @@
 
 <!--### Category Name 1 -->
 
-[AV Simulation](https://github.com/anafdal/AV-Simulation)
+[VR-PAVIB Simulation](https://github.com/anafdal/AV-Simulation)
 
 
 ---
@@ -18,24 +18,23 @@
 
 ---
 [Interactive Bifurcation Graph](https://mcs.bw.edu/~adalipi15/Chaos_Theory_And_Technology_Paper.html)
-- [Link](https://mcs.bw.edu/~adalipi15/135/bff.html)
-
-
+- [Logistic Equation Graph](https://mcs.bw.edu/~adalipi15/135/bff.html)
+- [Sine Logistic Equation Graph](https://mcs.bw.edu/~adalipi15/135/BFFTEST2.html)
+- [Cosine Logistic Equation Graph](https://mcs.bw.edu/~adalipi15/135/BFFTEST3.html)
 
 ---
 
 ### Research Papers
 
-- [AV](http://example.com/)
+- [VR-PAVIB: The Virtual Reality Pedestrian-Autonomous Vehicle Interactions Benchmark Suite](http://example.com/)
 - [Chaos Theory and Technology](https://mcs.bw.edu/~adalipi15/Chaos_Theory_And_Technology_Paper.html)
 - [Bio-Inspired Solar Electric Propulsion Investigation](/pdf/2018%20Space%20Academy%20Final%20Report%20copy-converted.pdf)
 
 
+
+<br /><br /><br />
+
+
 ---
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:10px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->

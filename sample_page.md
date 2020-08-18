@@ -21,7 +21,6 @@ Purdue Graduate student with a focus in Virtual Reality and Data Visualization a
 
 ---
 ### EXPERIENCE
-<br />  
 
 ***Virtual Reality Pedestrian-Autonomous Vehicle Interactions Benchmark Suite Research Member Purdue University | West Lafayette, IN***  
 March 2020 - Current<br />  
@@ -75,8 +74,7 @@ January 2016 - April 2016 <br />
 
 ---
 ### EDUCATION
- <br /> 
- 
+
 ***MS  Purdue University, West Lafayette, IN***<br /> 
 May 2021 <br /> 
 Current GPA: 4.00/4.00 <br />

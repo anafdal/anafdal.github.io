@@ -9,7 +9,8 @@ Purdue Graduate student with a focus in Virtual Reality and Data Visualization a
 
 ### SKILLS
 
-* Creative problem solver     <br />                     * Strong organizational skills 
+* Creative problem solver     <br />                     
+* Strong organizational skills 
 * Microsoft Windows, Office and Excel proficient  
 * Experience with Maya Animation 
 * Experience with Unity                            

@@ -1,11 +1,17 @@
 title: <a href="https://www.linkedin.com/in/ana-fiona-dalipi-516503132/">Ana F Dalipi</a> 
 logo: "/images/IMG_0277.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Computer Graphics Technology Purdue Master Student.
+  Computer Graphics Technology Purdue Master Student
   <br><br>
    Virtual Reality | Data Visualization 
   <br><br>
   <a href="https://www.linkedin.com/in/ana-fiona-dalipi-516503132/">View My LinkedIn Profile</a> 
+ 
+ <br><br>
+  <a href="/images/myw3schoolsimage.jpg" download>
+  <img src="/images/myw3schoolsimage.jpg" alt="W3Schools">
+</a>
+  
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

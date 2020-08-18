@@ -5,11 +5,11 @@
 
 Purdue Graduate student with a focus in Virtual Reality and Data Visualization at the Computer Graphics Technology program. Has a strong mathematical background and is experienced with data analysis. Is interested in further developing her skills in VR and Data Science.  
 
+---
 
 ### SKILLS
 
-* Creative problem solver                          
-* Strong organizational skills 
+* Creative problem solver     <br />                     * Strong organizational skills 
 * Microsoft Windows, Office and Excel proficient  
 * Experience with Maya Animation 
 * Experience with Unity                            
@@ -18,6 +18,7 @@ Purdue Graduate student with a focus in Virtual Reality and Data Visualization a
 * Basic Video Editing and Photoshop skills 
 * Experience with HTML and CSS 
 
+---
 ### EXPERIENCE
 
 

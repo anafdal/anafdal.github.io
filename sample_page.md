@@ -97,4 +97,4 @@ Fluent in Spanish, Albanian and basic Italian.
  [PORTFOLIO](https://anafdal.github.io/)
  <br />
  <br />
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<!--For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).-->

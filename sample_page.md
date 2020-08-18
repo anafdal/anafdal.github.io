@@ -25,14 +25,15 @@ Purdue Graduate student with a focus in Virtual Reality and Data Visualization a
 ---
 ### EDUCATION
  <br /> 
-##### MS  Purdue University, West Lafayette, IN  
+***MS  Purdue University, West Lafayette, IN***
 May 2021 
 Current GPA: 4.00/4.00 
- <br /> 
-##### Bachelor of Mathematics  Minor in Software Engineering Baldwin Wallace University, Berea, OH  
+ <br />
+ 
+***Bachelor of Mathematics  Minor in Software Engineering Baldwin Wallace University, Berea, OH***
 May 2019 
 GPA: 3.86/4.00 
- <br /> 
+<br /> 
   
 --- 
 ### LANGUAGES

@@ -3,17 +3,19 @@
 <!--### Category Name 1 -->
 
 #### [VR-PAVIB Simulation](https://github.com/anafdal/AV-Simulation)
-<br /><br />
-
+<br />
 <img src="images/Capture.PNG" style="width:500px;height:300px;">
 
-##### [COVID-19 3D Data Visualization](https://github.com/anafdal/CGT515_DataVisualization)
-<br /><br />
++++
+
+#### [COVID-19 3D Data Visualization](https://github.com/anafdal/CGT515_DataVisualization)
+<br />
 <img src="images/Pic_1.PNG" style="width:500px;height:300px;"><img src="images/Pic_2.PNG" style="width:500px;height:300px;">
 <img src="images/Pic_3.PNG" style="width:500px;height:300px;"><img src="images/Pic_4.PNG" style="width:500px;height:300px;">
 
++++
 
-##### [Interactive Bifurcation Graph](https://mcs.bw.edu/~adalipi15/Chaos_Theory_And_Technology_Paper.html)
+#### [Interactive Bifurcation Graph](https://mcs.bw.edu/~adalipi15/Chaos_Theory_And_Technology_Paper.html)
 - [Logistic Equation Graph](https://mcs.bw.edu/~adalipi15/135/bff.html)
 - [Sine Logistic Equation Graph](https://mcs.bw.edu/~adalipi15/135/BFFTEST2.html)
 - [Cosine Logistic Equation Graph](https://mcs.bw.edu/~adalipi15/135/BFFTEST3.html)

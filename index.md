@@ -21,7 +21,7 @@
 - [Cosine Logistic Equation Graph](https://mcs.bw.edu/~adalipi15/135/BFFTEST3.html)
 
 ---
-
+<!--### Category Name 1 -->
 ### Research Papers
 
 - [VR-PAVIB: The Virtual Reality Pedestrian-Autonomous Vehicle Interactions Benchmark Suite (Current Project)](http://example.com/)

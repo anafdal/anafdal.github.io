@@ -1,6 +1,8 @@
 ## Resume
 
-
+ [PORTFOLIO](https://anafdal.github.io/)
+ <br />
+ <br />
 ### PROFESSIONAL SUMMARY
 
 Purdue Graduate student with a focus in Virtual Reality and Data Visualization at the Computer Graphics Technology program. Has a strong mathematical background and is experienced with data analysis. Is interested in further developing her skills in VR and Data Science.  
@@ -32,12 +34,6 @@ March 2020 - Current<br />
 August 2019 - Current <br /> 
 * Help students to advance their spatial abilities in order to successfully communicate their engineering ideas using visual techniques. 
 * Educate students on how to become proficient with CAD software like CATIA and PLM platforms like Aras. 
-
-***Marshalls Associate  T.J. Maxx & HomeGoods | Fairview Park, OH***    
-April 2017 - July 2019 <br />  
-* Greeted and assisted customers. 
-* Managed different projects. 
-* Worked independently and on a team. 
 
 ***Space Academy Research Intern  NASA Glenn Research Center | Cleveland, OH***    
 June 2018 - August 2018 <br />  
@@ -94,7 +90,5 @@ Fluent in Spanish, Albanian and basic Italian.
  <br />
  <br />
  
- [PORTFOLIO](https://anafdal.github.io/)
- <br />
- <br />
+
 <!--For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).-->

@@ -25,16 +25,22 @@ Purdue Graduate student with a focus in Virtual Reality and Data Visualization a
 ---
 ### EXPERIENCE
 
-***Virtual Reality Pedestrian-Autonomous Vehicle Interactions Benchmark Suite Research Member Purdue University | West Lafayette, IN***  
-March 2020 - Current<br />  
-* Created a virtually based simulation for pedestrian-AV interactions using Unity and the NAVMESH System. 
-* In charge of the Traffic and Road System logic.
-* Developed interactable UI interfaces for the car models. 
+***Data Mine Graduate Intern| West Lafayette, IN***
+August 2020 - Current <br /> 
+* Use data science and data visualization.
+* Focus on algorithm development.
+* Provide leadership and guidance to other undergrad members of the project.
  
 ***Teacher Assistant  Purdue University | West Lafayette, IN***   
 August 2019 - Current <br /> 
 * Help students to advance their spatial abilities in order to successfully communicate their engineering ideas using visual techniques. 
 * Educate students on how to become proficient with CAD software like CATIA and PLM platforms like Aras. 
+
+***Virtual Reality Pedestrian-Autonomous Vehicle Interactions Benchmark Suite Research Member Purdue University | West Lafayette, IN***  
+March 2020 - Ocotber 2020<br />  
+* Created a virtually based simulation for pedestrian-AV interactions using Unity and the NAVMESH System. 
+* In charge of the Traffic and Road System logic.
+* Developed interactable UI interfaces for the car models. 
 
 ***Space Academy Research Intern  NASA Glenn Research Center | Cleveland, OH***    
 June 2018 - August 2018 <br />  

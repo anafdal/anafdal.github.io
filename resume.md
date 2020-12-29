@@ -25,8 +25,8 @@ Purdue Graduate student with a focus in Immersive Analytics and Data Visualizati
 ---
 ### EXPERIENCE
 
-***Data Mine Graduate Intern| West Lafayette, IN***
- August 2020 - Current <br /> 
+***Data Mine Graduate Intern| West Lafayette, IN*** 
+August 2020 - Current <br /> 
 * Use data science and data visualization.
 * Focus on algorithm development.
 * Provide leadership and guidance to other undergrad members of the project.

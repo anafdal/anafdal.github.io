@@ -6,7 +6,7 @@
  <br />
 ### PROFESSIONAL SUMMARY
 
-Purdue Graduate student with a focus in Virtual Reality and Data Visualization at the Computer Graphics Technology program. Has a strong mathematical background and is experienced with data analysis. Is interested in further developing her skills in VR and Data Science.  
+Purdue Graduate student with a focus in Immersive Analytics and Data Visualization at the Computer Graphics Technology program. Has a strong mathematical background and is experienced with Data Science. Is interested in further developing her skills in Mixed Reality and Data Science.  
 
 ---
 

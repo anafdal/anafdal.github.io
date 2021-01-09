@@ -1,7 +1,7 @@
 
 ## Resume
 
- [PORTFOLIO](https://anafdal.github.io/) &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [PDF CV](/pdf/Ana%20F%20Resume2020.pdf)
+ [PORTFOLIO](https://anafdal.github.io/) &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [PDF CV](/pdf/Ana%20F%20Resume2020%-pdf.pdf)
  <br />
  <br />
 ### PROFESSIONAL SUMMARY

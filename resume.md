@@ -1,7 +1,7 @@
 
 ## Resume
 
- [PORTFOLIO](https://anafdal.github.io/) &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [PDF CV](/pdf/Ana%20F%20Resume2020-pdf.pdf)
+ [PORTFOLIO](https://anafdal.github.io/) &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [PDF CV](/pdf/Ana%20F%20Resume2020%20-pdf.pdf)
  <br />
  <br />
 ### PROFESSIONAL SUMMARY
@@ -16,7 +16,7 @@ Purdue Graduate student with a focus in Immersive Analytics and Data Visualizati
 * Strong organizational skills 
 * Microsoft Windows, Office and Excel proficient 
 * Experience with Maya Animation 
-* Experience with Unity                          
+* Experience with Unity3D and Tableau                          
 * Knowledgeable in C#, Java,  and Python   
 * Experience with SAS, Julia, R and MATLAB      
 * Basic Video Editing and Photoshop skills 

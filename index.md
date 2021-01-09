@@ -23,8 +23,8 @@
 ---
 ### Research Papers
 
-- [VR-PAVIB: The Virtual Reality Pedestrian-Autonomous Vehicle Interactions Benchmark Suite (Purdue University, 2020)](http://example.com/)
-- [Chaos Theory and Technology (Baldwin Wallace University, 2019)](https://mcs.bw.edu/~adalipi15/Chaos_Theory_And_Technology_Paper.html)
+- [VR-PAVIB: The Virtual Reality Pedestrian-Autonomous Vehicle Interactions Benchmark Suite (Purdue University, 2020)](https://github.com/anafdal/anafdal.github.io/blob/master/pdf/conf20-AutomotiveUI.pdf)
+- [Chaos Theory and Technology (Baldwin Wallace University, 2019)](https://github.com/anafdal/anafdal.github.io/blob/master/pdf/Chaos_Theory_And_Technology_Paper.pdf)
 - [Bio-Inspired Solar Electric Propulsion Investigation (NASA Glenn Research Center, 2018)](/pdf/2018%20Space%20Academy%20Final%20Report%20copy-converted.pdf)
 
 
